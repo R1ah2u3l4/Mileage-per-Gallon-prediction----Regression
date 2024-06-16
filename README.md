@@ -51,3 +51,8 @@ This project is licensed under the MIT License.
 
 Technology used:
 Jupyter Vs code Streamlit
+
+
+
+https://github.com/R1ah2u3l4/Mileage-per-Gallon-prediction----Regression/assets/153045039/43d6d238-9f28-49c0-b265-49f6ff1a6001
+
