@@ -36,3 +36,11 @@ Acknowledgments
 The dataset used in this project is sourced from: https://archive.ics.uci.edu/ml/datasets/auto+mpg
 The Linear Regression algorithm is implemented using the scikit-learn library.
 The Streamlit framework is used for creating the web application.
+
+Technology Used: 
+Jupyter Vs code Streamlit
+
+
+
+https://github.com/R1ah2u3l4/Mileage-per-Gallon-prediction----Regression/assets/153045039/637d6fff-50d7-41f1-bd0d-43cdfbeded71
+
