@@ -41,8 +41,6 @@ This project is licensed under the MIT License.
 - The Linear Regression algorithm is implemented using the scikit-learn library.
 - The Streamlit framework is used for creating the web application.
 
-### Contact
-If you have any **questions** or **suggestions** regarding this project, please feel free to **contact me at eswaraditya63@gmail.com**
 
 ### Technology used:
 <div align ='left'>
@@ -50,3 +48,6 @@ If you have any **questions** or **suggestions** regarding this project, please 
 <img src = 'https://cdn.dribbble.com/users/6569/screenshots/16471177/media/8bbfe7fd594073dc6271d5d852c7381a.png', height = "50" alt = 'Vs code'/><img width = '12'/>
 <img src = 'https://thomasjpfan.github.io/data-umbrella-2020-streamlit-slides/images/streamlit.png', height = "50" alt = 'Streamlit'/><img width = '12'/>
 </div>
+
+Technology used:
+Jupyter Vs code Streamlit
