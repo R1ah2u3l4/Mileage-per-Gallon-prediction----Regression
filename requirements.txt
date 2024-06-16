@@ -1,0 +1,6 @@
+Numpy
+Pandas
+Scikit-learn
+joblib
+Streamlit
+Prediction
